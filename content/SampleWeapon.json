@@ -1,0 +1,4 @@
+{
+  "statistics":  {"to_hit": 3, "damage_or_whatever":  10000000000},
+  "abilities": ["SampleAbility"]
+}
