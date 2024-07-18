@@ -1,0 +1,6 @@
+{
+    "statistics":  {"move": 5, "toughness":4, "save": 4,"wounds": 1, "leadership": 7, "objective_control": 2},
+    "abilities": ["Their Number is Legion"],
+    "ranged_weapons": ["Gauss flayer"],
+    "melee_weapons": []
+  }

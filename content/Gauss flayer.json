@@ -1,4 +1,4 @@
 {
   "statistics":  {"range": 24, "attacks":1, "balistic_skill":  4,"strength": 4, "armour_penetration": 0, "damage": 1},
-  "abilities": []
+  "abilities": ["SampleAbility"]
 }
