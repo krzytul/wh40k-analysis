@@ -1,6 +1,9 @@
 {
+    "name":"Necron Warriors",
+    "faction": "Necrons",
+    "keywords": ["Infantry", "Battleline","Necron Warriors"],
     "statistics":  {"move": 5, "toughness":4, "save": 4,"wounds": 1, "leadership": 7, "objective_control": 2},
-    "abilities": ["Their Number is Legion"],
+    "abilities": ["TheirNumberIsLegion"],
     "ranged_weapons": ["Gauss flayer"],
-    "melee_weapons": []
+    "melee_weapons": ["Close comabat weapon Necron Warriors"]
   }
